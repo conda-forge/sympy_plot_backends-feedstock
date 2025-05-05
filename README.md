@@ -27,7 +27,7 @@ Current release info
 
 | Name | Downloads | Version | Platforms |
 | --- | --- | --- | --- |
-| [![Conda Recipe](https://img.shields.io/badge/recipe-sympy_plot_backends-green.svg)](https://anaconda.org/conda-forge/sympy_plot_backends) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/sympy_plot_backends.svg)](https://anaconda.org/conda-forge/sympy_plot_backends) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/sympy_plot_backends.svg)](https://anaconda.org/conda-forge/sympy_plot_backends) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/sympy_plot_backends.svg)](https://anaconda.org/conda-forge/sympy_plot_backends) |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-sympy__plot__backends-green.svg)](https://anaconda.org/conda-forge/sympy_plot_backends) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/sympy_plot_backends.svg)](https://anaconda.org/conda-forge/sympy_plot_backends) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/sympy_plot_backends.svg)](https://anaconda.org/conda-forge/sympy_plot_backends) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/sympy_plot_backends.svg)](https://anaconda.org/conda-forge/sympy_plot_backends) |
 
 Installing sympy_plot_backends
 ==============================
