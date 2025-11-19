@@ -1,5 +1,5 @@
 {% set name = "sympy_plot_backends" %}
-{% set version = "4.0.0" %}
+{% set version = "4.0.1" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/sympy_plot_backends-{{ version }}.tar.gz
-  sha256: 1a6c21f060b4cfa3d1ba1f07ae8bfd678107ba5a28a5abf475a63a59ba692014
+  sha256: 0696d34da1714c00f4e503991b57e25403568fccb0ddf2bafb9c99c5a75ade0c
 
 build:
   noarch: python
